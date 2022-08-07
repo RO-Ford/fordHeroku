@@ -1,0 +1,36 @@
+#sample {
+  padding: 40px 20px;
+  //background-color: red;
+}
+
+#myDiagramDive {
+  border: solid 2px black;
+  width: 100%;
+  height: 460px;
+  background: whitesmoke;
+}
+
+.demmarer {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+section {
+  display: table;
+}
+
+.example-button-row {
+  display: table-cell;
+  width: 900px;
+}
+
+.example-button-row .mat-button-base {
+  margin: 8px 8px 8px 0;
+}
+
+#History {
+  position: absolute;
+  right: 10px;
+  margin: 0;
+  top: 20px;
+}
